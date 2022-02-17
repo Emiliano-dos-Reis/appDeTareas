@@ -1,0 +1,42 @@
+
+
+[
+
+{
+
+"titulo": "Calculadora JS",
+
+"estado": "terminada"
+
+
+},
+
+{
+
+    "titulo": "App de notas 2",
+    
+    "estado": "progreso"
+    
+    
+    },
+    {
+        "titulo": "Completar clases de PG",
+        
+        "estado": "pendiente"
+           
+        },
+        {
+            "titulo": "App de notas 1", 
+            
+            "estado": "terminada"
+              
+            }
+
+
+
+
+
+]
+
+
+
